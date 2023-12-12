@@ -1,4 +1,8 @@
-Maths is Everywhere.
+# include <stdio.h>
+
+int main(int argc, char const* argv[]) {
+
+/* Maths is Everywhere.
 
 Mathematical truths existed before we created symbols to describe them.
 
@@ -21,4 +25,9 @@ Every Mathematical Question have inarguable answer.
 
 The thing is question is the key, for answering question we create tools.
 
-Let's start the Mathematics Course.
+We do not decide the answers. We simply observe them.
+
+*/
+
+    return 0;
+}
